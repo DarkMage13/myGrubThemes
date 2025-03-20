@@ -16,6 +16,10 @@ sudo vim /etc/default/grub
 
 sudo nvim /etc/default/grub
 ```
+add this line
+```
+GRUB_THEME="/usr/share/grub/themes/OsageChan_GRUB_theme/theme.txt"
+```
 lastly update grub
 ```
 sudo grub-mkconfig -o /boot/grub/grub.cfg  
