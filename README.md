@@ -1,4 +1,4 @@
-This is a Grub theme with Osage chan, it isn't the best but it's cute
+This is my version of a Grub theme, originaly with Osage chan. Now it is with Shuvi from No Game No Life Zero.
 
 To install first clone the repository
 ```
